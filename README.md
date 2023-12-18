@@ -1,5 +1,5 @@
 <div id="socials" align="center">
-  <a href="https://t.me/haelgik">
+  <a href="https://t.me/okonda">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
