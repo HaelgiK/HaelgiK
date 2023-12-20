@@ -1,6 +1,8 @@
 <div id="socials" align="center">
   <a href="https://t.me/okonda">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white" alt="Telegram"/>
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white" width="136" height="36" alt="Telegram"/>
+</a><a href="mailto:haelgi42@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-bage&logo=gmail&logoColor=white" width="136" height="36" alt="Gmail"/>
 </a>
 </div>
 
@@ -28,11 +30,6 @@ I am Python Backend Developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/HaelgiK" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -41,4 +38,4 @@ I am Python Backend Developer
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaelgiK&theme=flag_india)
 
-<a href="http://www.github.com/HaelgiK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaelgiK&stroke=ffffff&background=134e4a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/HaelgiK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaelgiK&stroke=3382ed&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
