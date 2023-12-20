@@ -34,8 +34,8 @@ I am Python Backend Developer
 
 <b>My GitHub Stats</b>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaelgiK&theme=flag_india)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaelgiK&theme=flag_india)   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaelgiK&theme=flag_india)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaelgiK&theme=flag_india)
+
 
 <a href="http://www.github.com/HaelgiK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaelgiK&stroke=3382ed&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
