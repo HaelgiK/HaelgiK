@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white" width="116" height="27" alt="Telegram"/>
 </a><a href="mailto:haelgi42@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-red?&style=for-the-bage&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a><a href="https://linkedin.com/in/oleg-kondakov-4429b7285" target="_blank">
+</a><a href="https://linkedin.com/in/oleg-kondakov" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
