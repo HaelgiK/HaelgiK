@@ -13,7 +13,7 @@ Hi there! I'm Oleg.
 ============================================================================================================================
 
 Backend Developer
------------------------------
+-----------------
 
 ### Skills
 
@@ -30,7 +30,7 @@ Backend Developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
+***
 ### My GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaelgiK&theme=flag_india)   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaelgiK&theme=flag_india)
