@@ -1,8 +1,8 @@
 <div id="socials" align="center">
   <a href="https://t.me/okonda">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white" width="136" height="36" alt="Telegram"/>
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white" width="126" height="30" alt="Telegram"/>
 </a><a href="mailto:haelgi42@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-bage&logo=gmail&logoColor=white" width="136" height="36" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-bage&logo=gmail&logoColor=white" width="126" height="30" alt="Gmail"/>
 </a>
 </div>
 
@@ -12,8 +12,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am Python Backend Developer
 -----------------------------
-
-* ✉️  You can contact me at [haelgi42@gmail.com](mailto:haelgi42@gmail.com)
 
 ### Skills
 
@@ -35,7 +33,6 @@ I am Python Backend Developer
 <b>My GitHub Stats</b>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaelgiK&theme=flag_india)   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaelgiK&theme=flag_india)
-
 
 
 <a href="http://www.github.com/HaelgiK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaelgiK&stroke=3382ed&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
