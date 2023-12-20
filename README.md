@@ -1,8 +1,8 @@
 <div id="socials" align="center">
   <a href="https://t.me/okonda">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white" width="126" height="30" alt="Telegram"/>
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white" width="116" height="27" alt="Telegram"/>
 </a><a href="mailto:haelgi42@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-bage&logo=gmail&logoColor=white" width="126" height="30" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-bage&logo=gmail&logoColor=white" width="116" height="27" alt="Gmail"/>
 </a>
 </div>
 
